@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .button {
   color: #ffffff;
   background: #bb0000;

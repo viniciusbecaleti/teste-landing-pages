@@ -17,7 +17,7 @@ export function Hero2({
   }[]
 }) {
   return (
-    <section className="py-16 bg-gray-100">
+    <section className="hero py-16 bg-gray-100">
       <div className="container mx-auto">
         <div className="grid grid-cols-2 gap-2 items-center">
           <div>
@@ -38,8 +38,8 @@ export function Hero2({
             <Image
               src="https://images.unsplash.com/photo-1707343846292-56e4c6abf291?q=80&w=1080"
               alt=""
-              width={720}
-              height={720}
+              width={1080}
+              height={1080}
             />
           </div>
         </div>
