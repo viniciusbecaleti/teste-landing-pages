@@ -17,7 +17,7 @@ export function Hero2({
   }[]
 }) {
   return (
-    <section className="py-16 bg-gray-100">
+    <section className="hero py-16 bg-gray-100">
       <div className="container mx-auto">
         <div className="grid grid-cols-2 gap-2 items-center">
           <div>
