@@ -38,8 +38,8 @@ export function Hero2({
             <Image
               src="https://images.unsplash.com/photo-1707343846292-56e4c6abf291?q=80&w=1080"
               alt=""
-              width={720}
-              height={720}
+              width={1080}
+              height={1080}
             />
           </div>
         </div>
