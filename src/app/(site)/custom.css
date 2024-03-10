@@ -19,3 +19,11 @@
   text-transform: capitalize;
   font-weight: bold;
 }
+
+.header {
+  background: #f4f4f4;
+}
+
+.header nav a {
+  text-transform: uppercase;
+}
