@@ -16,7 +16,7 @@ export function Hero({
   }[]
 }) {
   return (
-    <section className="py-16 text-center">
+    <section className="hero py-16 text-center">
       <div className="container mx-auto">
         {tagline && <span>{tagline}</span>}
         <h1 className="title">{title}</h1>
