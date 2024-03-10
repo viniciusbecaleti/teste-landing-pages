@@ -1,6 +1,6 @@
 export function Header() {
   return (
-    <header className="py-6">
+    <header className="header py-6">
       <div className="container mx-auto flex justify-between">
         <h1 className="uppercase font-bold text-2xl">Logo</h1>
         <nav>
