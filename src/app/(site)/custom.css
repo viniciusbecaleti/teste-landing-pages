@@ -1,0 +1,25 @@
+img {
+  border-radius: 4px;
+}
+
+.button {
+  color: #ffffff;
+  background: orange;
+  padding: 0.5rem 1rem;
+  border-radius: 100px;
+}
+
+.button--outlined {
+  color: orange;
+  background: none;
+  border: 2px solid orange;
+  padding: 0.5rem 1rem;
+  border-radius: 100px;
+}
+
+.title {
+  font-size: 3rem;
+  background: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
