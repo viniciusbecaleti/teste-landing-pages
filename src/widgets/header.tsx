@@ -1,7 +1,7 @@
 export function Header() {
   return (
     <header className="header py-6">
-      <div className="container mx-auto flex justify-between">
+      <div className="container mx-auto flex justify-between items-center">
         <h1 className="uppercase font-bold text-2xl">Logo</h1>
         <nav>
           <ul className="flex space-x-4">
