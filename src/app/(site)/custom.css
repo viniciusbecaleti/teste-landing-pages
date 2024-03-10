@@ -1,25 +1,21 @@
-img {
+.button {
+  color: #ffffff;
+  background: red;
+  padding: 0.5rem 1rem;
   border-radius: 4px;
 }
 
-.button {
-  color: #ffffff;
-  background: orange;
-  padding: 0.5rem 1rem;
-  border-radius: 100px;
-}
-
 .button--outlined {
-  color: orange;
+  color: red;
   background: none;
-  border: 2px solid orange;
+  border: 2px solid red;
   padding: 0.5rem 1rem;
-  border-radius: 100px;
+  border-radius: 4px;
 }
 
 .title {
   font-size: 3rem;
   background: none;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: bold;
 }
